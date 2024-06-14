@@ -1,0 +1,11 @@
+adjusttext
+cartopy
+geopy
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+unidecode
