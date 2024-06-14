@@ -2,7 +2,7 @@
 
 The repository contains code and data for:
 
-> Matthew Wilkens, Elizabeth F. Evans, Sandeep Soni, David Bamman, and Andrew Piper. **"Small Worlds: Measuring Mobility in English-Language Fiction."** Third Annual Conference on Computational Literary Studies (CCLS'24). Vienna, Austria, 13-14 June 2024. (DOI and link to come.)
+> Matthew Wilkens, Elizabeth F. Evans, Sandeep Soni, David Bamman, and Andrew Piper. **"Small Worlds: Measuring Mobility in English-Language Fiction."** *Proceedings of the Third Annual Conference on Computational Literary Studies (CCLS'24)*. Vienna, Austria, 13-14 June 2024. (DOI and link to come.)
 
 Content is organized as the folder names suggest:
 
